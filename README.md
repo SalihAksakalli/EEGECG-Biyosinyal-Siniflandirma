@@ -1,5 +1,5 @@
 # EKG Sinyali ile Kalp Aritmisi Teşhisi ve Sınıflandırma
-## Yapay Zeka, Sinyal İşleme ve Açıklanabilir AI (XAI) Tabanlı Aritmi Teşhis Sistemi
+## Yapay Zeka, Sinyal İşleme ve Açıklanabilir Aritmi Teşhis Sistemi
 
 Bu proje, **MIT-BIH Aritmi Veri Tabanı** EKG zaman serisi sinyallerini kullanarak kardiyak anomalileri yüksek doğrulukla sınıflandırmak amacıyla geliştirilmiş uçtan uca bir makine öğrenmesi ve derin öğrenme sistemidir. 
 
